@@ -8,11 +8,16 @@ div {
   padding: 30px;
   margin: 5px;
   border: 1px solid black;
-  background-color: #cccccc;
+}
+
+body {
+    background-color: #cccccc;
 }
 
 h1 {
+  font-size: 32px;
   margin: 7px;
+  padding: 32px;
 }
 
 small {
