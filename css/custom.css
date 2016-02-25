@@ -16,7 +16,12 @@ body {
 
 /* unvisited link */
 a:link {
-    color: #000000;
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: black;
 }
 
 /* mouse over link */
