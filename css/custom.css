@@ -23,3 +23,9 @@ a:link {
 a:hover {
     color: white;
 }
+
+/*unvisited link*/
+a:link {
+    text-decoration: none;
+}
+
