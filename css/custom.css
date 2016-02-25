@@ -13,3 +13,13 @@ div {
 body {
   background-color: #cccccc;
 }
+
+/* unvisited link */
+a:link {
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    color: white;
+}
