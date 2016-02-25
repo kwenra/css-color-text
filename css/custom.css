@@ -14,6 +14,11 @@ body {
   background-color: #cccccc;
 }
 
+small {
+  size: 10px;
+  color: black;
+}
+
 /* unvisited link */
 a {
     color: black;
@@ -32,9 +37,4 @@ a:hover {
 
 .read-more:hover {
   text-decoration: underline;
-}
-
-small {
-  size: 10px;
-  color: black;
 }
