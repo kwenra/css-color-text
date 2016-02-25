@@ -15,22 +15,22 @@ body {
 }
 
 /* unvisited link */
-h1:link {
+a:link {
     color: black;
     text-decoration: none;
 }
 
 /* visited link */
-h1:visited {
+a:visited {
     color: black;
 }
 
 /* mouse over link */
-h1:hover {
+a:hover {
     color: white;
 }
 
-readmore:hover {
+.readmore:hover {
   text-decoration: underline;
 }
 
